@@ -1,7 +1,7 @@
 require("dotenv").config();
 
 module.exports = {
-  token: process.env.TOKEN || "MTE5NzU4NTg4MjgwMzM0MzM5MQ.GKL8aV.B7PhGIbX6nLieav0S5GQC01rGHlicMk7k3cdtA",  // your bot token
+  token: process.env.TOKEN || "",  // your bot token
   prefix: process.env.PREFIX || ".", // bot prefix
   ownerID: process.env.OWNERID || ["1055517646570922074"], //your discord id
   mongourl: process.env.MONGO_URI || "mongodb+srv://Rayzmusic:music@cluster0.rhzwp8e.mongodb.net/?retryWrites=true&w=majority", // MongoDb URL
