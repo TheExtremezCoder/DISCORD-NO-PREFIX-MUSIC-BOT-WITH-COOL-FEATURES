@@ -21,7 +21,7 @@ module.exports = {
        new MessageButton()
    .setLabel("Support")
  .setStyle("LINK")
-    .setURL("https://discord.gg/r4GnJYNMgE"),
+    .setURL("https://discord.gg/thunderrw"),
     new MessageButton()
   .setLabel("Vote")   
  .setStyle("LINK")  
@@ -44,7 +44,7 @@ let helpmenu = new MessageEmbed()
       //  .setFooter(ee.footertext, ee.footericon)
         .setFooter({text : `Thanks For Using This Bot!!` , iconURL : `https://media.discordapp.net/attachments/1162795987014787162/1200740969843269702/1199357089395527723.png?ex=65c7482b&is=65b4d32b&hm=8a8993a04cbbeece7bccbd18fab4fb5b89eb6bae69bd16b29b408bfdb080d0ed&=&format=webp&quality=lossless&width=160&height=61`}).setThumbnail(client.user.displayAvatarURL({dynamic : true}))
      .setColor("#ff0000")
-     .setImage("https://media.discordapp.net/attachments/1162795987014787162/1198544044050092092/standard.gif?ex=65c8849f&is=65b60f9f&hm=7bda3e2b1b67d0d0aa48c5ae793d5168e22b6aa42556fe140d7b487ee8557a73&=&width=850&height=300")
+     .setImage("")
 
      
         const row = new MessageActionRow()
