@@ -23,7 +23,7 @@ module.exports = {
     .setLabel("Support")
     .setStyle("LINK")
      .setEmoji("🎧")
-    .setURL("https://discord.gg/9V9PfjzpqE")
+    .setURL("https://discord.gg/thunderrw")
 	        ) 
 
 
